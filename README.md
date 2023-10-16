@@ -3,6 +3,8 @@ Digital pressure sensor for brewing
 
 ![brewpressure_logo2](https://github.com/diyhomebrewers/BrewPressure/assets/77629780/6cbe0acb-acbf-49c6-94a3-d1fbb9923ab1)
 
+![Cab_BrewPressure](https://github.com/diyhomebrewers/BrewPressure/assets/77629780/87bb3ad5-6460-46a6-9779-7f7f8a4cb5f9)
+
 
 BrewPressure es un sensor Digital para medir la presión de fermentadores de cerveza.
 Puedes ver los datos de la presión en la pantalla incorporada, por su WebServer o en las diferentes integraciones:
